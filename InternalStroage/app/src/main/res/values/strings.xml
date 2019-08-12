@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InternalStroage</string>
+    <string name="submit">submit</string>
+    <string name="user_name">USER NAME</string>
+    <string name="password">Password</string>
+    <string name="go_to_nextpage">NEXTPAGE</string>
+    <string name="load">LOAD</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="username">UserName</string>
+</resources>

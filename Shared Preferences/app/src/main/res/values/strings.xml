@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="submit">SUBMIT</string>
+    <string name="go_to_nextpage">GO to nextpage</string>
+</resources>
